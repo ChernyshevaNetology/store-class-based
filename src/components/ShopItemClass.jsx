@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 
 class ShopItemClass extends Component {
   render() {
@@ -32,5 +33,9 @@ class ShopItemClass extends Component {
     );
   }
 }
+
+ShopItemClass.propTypes = {
+  item: PropTypes.object,
+};
 
 export default ShopItemClass;
