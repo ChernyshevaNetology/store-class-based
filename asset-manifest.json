@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/store-class-based/static/css/main.329c60eb.chunk.css",
+    "main.js": "/store-class-based/static/js/main.da7a80d4.chunk.js",
+    "main.js.map": "/store-class-based/static/js/main.da7a80d4.chunk.js.map",
+    "runtime-main.js": "/store-class-based/static/js/runtime-main.57f8a46c.js",
+    "runtime-main.js.map": "/store-class-based/static/js/runtime-main.57f8a46c.js.map",
+    "static/js/2.77f2e939.chunk.js": "/store-class-based/static/js/2.77f2e939.chunk.js",
+    "static/js/2.77f2e939.chunk.js.map": "/store-class-based/static/js/2.77f2e939.chunk.js.map",
+    "index.html": "/store-class-based/index.html",
+    "precache-manifest.723b09532ce9d2d6d409b13c73f9e56d.js": "/store-class-based/precache-manifest.723b09532ce9d2d6d409b13c73f9e56d.js",
+    "service-worker.js": "/store-class-based/service-worker.js",
+    "static/css/main.329c60eb.chunk.css.map": "/store-class-based/static/css/main.329c60eb.chunk.css.map",
+    "static/js/2.77f2e939.chunk.js.LICENSE.txt": "/store-class-based/static/js/2.77f2e939.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/store-class-based/static/media/item-blue.8bcbdffe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57f8a46c.js",
+    "static/js/2.77f2e939.chunk.js",
+    "static/css/main.329c60eb.chunk.css",
+    "static/js/main.da7a80d4.chunk.js"
+  ]
+}
